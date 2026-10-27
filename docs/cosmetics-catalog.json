@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "package_name": "com.soupper.dashers",
+  "purchasing_enabled": false,
+  "status": "planned_not_created_in_play_console",
+  "billing_provider": "google_play",
+  "updated": "2026-10-26",
+  "notice": "Product identifiers are proposed integration values. Console creation is blocked until a BILLING-enabled build is uploaded. This public catalog is never proof of ownership.",
+  "products": [
+    {
+      "product_id": "dashers_attack_style_1",
+      "title": "Attack Style 1",
+      "slot": "attack",
+      "variant": 1,
+      "entitlement_bit": 0,
+      "product_type": "one_time_non_consumable",
+      "planned_us_price": {
+        "currency": "USD",
+        "amount": "0.99"
+      },
+      "available": false,
+      "checkout_url": null
+    },
+    {
+      "product_id": "dashers_attack_style_2",
+      "title": "Attack Style 2",
+      "slot": "attack",
+      "variant": 2,
+      "entitlement_bit": 1,
+      "product_type": "one_time_non_consumable",
+      "planned_us_price": {
+        "currency": "USD",
+        "amount": "0.99"
+      },
+      "available": false,
+      "checkout_url": null
+    },
+    {
+      "product_id": "dashers_attack_spin",
+      "title": "Spin Attack",
+      "slot": "attack",
+      "variant": 3,
+      "entitlement_bit": 2,
+      "product_type": "one_time_non_consumable",
+      "planned_us_price": {
+        "currency": "USD",
+        "amount": "0.99"
+      },
+      "available": false,
+      "checkout_url": null
+    },
+    {
+      "product_id": "dashers_guard_high",
+      "title": "High Guard",
+      "slot": "guard",
+      "variant": 1,
+      "entitlement_bit": 3,
+      "product_type": "one_time_non_consumable",
+      "planned_us_price": {
+        "currency": "USD",
+        "amount": "0.99"
+      },
+      "available": false,
+      "checkout_url": null
+    },
+    {
+      "product_id": "dashers_guard_wide",
+      "title": "Wide Guard",
+      "slot": "guard",
+      "variant": 2,
+      "entitlement_bit": 4,
+      "product_type": "one_time_non_consumable",
+      "planned_us_price": {
+        "currency": "USD",
+        "amount": "0.99"
+      },
+      "available": false,
+      "checkout_url": null
+    },
+    {
+      "product_id": "dashers_guard_low",
+      "title": "Low Guard",
+      "slot": "guard",
+      "variant": 3,
+      "entitlement_bit": 5,
+      "product_type": "one_time_non_consumable",
+      "planned_us_price": {
+        "currency": "USD",
+        "amount": "0.99"
+      },
+      "available": false,
+      "checkout_url": null
+    }
+  ]
+}
