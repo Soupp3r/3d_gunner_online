@@ -2,10 +2,10 @@
   "schema_version": 1,
   "package_name": "com.soupper.dashers",
   "purchasing_enabled": false,
-  "status": "planned_not_created_in_play_console",
+  "status": "console_active_internal_validation_pending",
   "billing_provider": "google_play",
-  "updated": "2026-10-26",
-  "notice": "Product identifiers are proposed integration values. Console creation is blocked until a BILLING-enabled build is uploaded. This public catalog is never proof of ownership.",
+  "updated": "2026-10-29",
+  "notice": "All six products are active in Google Play Console. Billing-enabled version 0.2.0 is in internal testing; native checkout and restoration validation remain pending. Purchases remain unavailable in the public release and on this website. This public catalog is never proof of ownership.",
   "products": [
     {
       "product_id": "dashers_attack_style_1",
